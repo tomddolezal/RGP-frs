@@ -1,0 +1,890 @@
+[
+  {
+    "hospital": "Baycrest",
+    "UUID": "c95e0c40-e997-43e7-807d-969e04c19508",
+    "address": "3560 Bathurst Street, North York, ON, Canada",
+    "website": "https://www.baycrest.org/",
+    "services": [
+      {
+        "type": "GERIATRIC OUTREACH SERVICES",
+        "service": "",
+        "UUID": "f276cf81-58e3-4bed-b8bc-0deedb129ad4",
+        "contact": [
+          "T: 416 785-2488",
+          "F: 416 785-2409"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "GERIATRIC DAY HOSPITALS",
+        "service": "Wellness Path Program",
+        "UUID": "13b07772-022f-4d66-bb60-8d7f0fb9e7b4",
+        "contact": [
+          "T: 416-785-2500 Ext. 2588",
+          "F: 416-785-2409"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "GERIATRIC OUTPATIENT CLINICS",
+        "service": "Geriatric Assessment Clinic",
+        "UUID": "25f7d376-891e-43e5-af85-9b7b928184b2",
+        "contact": [
+          "T: 416-785-2500 Ext. 2636",
+          "F: 416-785-2370 or 416-785-4226"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "OTHER OUTPATIENT SERVICES",
+        "service": "Psychogeriatric Services",
+        "UUID": "5af67886-ba70-41de-8e78-507033219d75",
+        "contact": [
+          "T: 416-785-2500 Ext. 2730",
+          "F: 416-785-2492"
+        ],
+        "waittime": ""
+      }
+    ]
+  },
+  {
+    "hospital": "Humber River Hospital",
+    "UUID": "e3d51fe5-9fca-420d-97d6-ddb946e13947",
+    "address": "1235 Wilson Ave, Toronto, ON M3M 0B2",
+    "website": "https://www.hrh.ca/",
+    "services": [
+      {
+        "type": "GERIATRIC OUTREACH SERVICES",
+        "service": "Geriatric Outreach Team",
+        "UUID": "2456db15-e6f1-4fe4-88b3-661aeb0bcf64",
+        "contact": [
+          "T: 416-242-1000 Ext. 21817 / 21818",
+          "F: 416-242-1108"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "GERIATRIC OUTREACH SERVICES",
+        "service": "Geriatric Mental Health Outreach Team(LTC homes specified by the LHIN NYGH and all LTC's covered by HRH)",
+        "UUID": "325d21d8-42aa-4662-996d-4fb96bd46081",
+        "contact": [
+          "T: 416-242-1000 Ext. 43097",
+          "F: "
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "GERIATRIC OUTPATIENT CLINICS",
+        "service": "Healthy Living Clinic",
+        "UUID": "21db5d74-ddd9-47b4-a0a1-c995c9355bf7",
+        "contact": [
+          "T: 416-242-1000 Ext. 21800",
+          "F: 416-242-1058"
+        ],
+        "waittime": ""
+      }
+    ]
+  },
+  {
+    "hospital": "Lakeridge Health Corporation",
+    "UUID": "8a8f98b9-465f-4347-9b4e-d9dc9d63e5cb",
+    "address": "1 Hospital Ct, Oshawa, ON L1G 2B9",
+    "website": "https://www.lakeridgehealth.on.ca/",
+    "services": [
+      {
+        "type": "GERIATRIC OUTPATIENT CLINICS",
+        "service": "GAIN Clinic",
+        "UUID": "c317180f-481b-48af-bcbe-7723c90ab465",
+        "contact": [
+          "T: 905-576-8711 Ext. 4832",
+          "F: 905-743-5311"
+        ],
+        "waittime": ""
+      }
+    ]
+  },
+  {
+    "hospital": "Mackenzie Health Richmond Hill Hospital",
+    "UUID": "fc4b43b5-b0b2-452e-80cf-9df873932590",
+    "address": "10 Trench St, Richmond Hill, ON L4C 4Z3",
+    "website": "https://www.mackenziehealth.ca/",
+    "services": [
+      {
+        "type": "GERIATRIC OUTREACH SERVICES",
+        "service": "Geriatric Outreach Team",
+        "UUID": "e9975655-297d-4a2d-9309-cf5d13c9df92",
+        "contact": [
+          "T: 905-883-1212 Ext. 3895",
+          "F: 905-883-2016"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "GERIATRIC OUTPATIENT CLINICS",
+        "service": "Seniors Wellness Clinic",
+        "UUID": "d809f8ca-892f-40c0-b940-6bf7fc8a96d1",
+        "contact": [
+          "T: 905-883-1212 Ext. 3889",
+          "F: 905-883-2181"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "GERIATRIC OUTPATIENT CLINICS",
+        "service": "Psychogeriatric Assessment Service",
+        "UUID": "91a6e7f8-9181-414d-a5ba-abbf7bb114c4",
+        "contact": [
+          "T: 905-883-1212 Ext. 3361",
+          "F: 905-883-2139"
+        ],
+        "waittime": ""
+      }
+    ]
+  },
+  {
+    "hospital": "Markham Stouffville Hospital",
+    "UUID": "56a1379a-c693-4dbc-8e6b-ce07f6b51646",
+    "address": "381 Church St, Markham, ON L3P 7P3",
+    "website": "https://www.msh.on.ca/",
+    "services": [
+      {
+        "type": "GERIATRIC OUTPATIENT CLINICS",
+        "service": "Seniors Health Clinic",
+        "UUID": "7a73cad2-53ce-41f0-a0f7-4e897857e5de",
+        "contact": [
+          "T: 905-472-7000 Ext. 7601",
+          "F: 905-472-7621"
+        ],
+        "waittime": ""
+      }
+    ]
+  },
+  {
+    "hospital": "Michael Garron Hospital - Toronto East Health Network",
+    "UUID": "ca51c38d-5bfb-4693-9f56-2169464d63eb",
+    "address": "825 Coxwell Ave, East York, ON M4C 3E7",
+    "website": "http://www.tehn.ca/",
+    "services": [
+      {
+        "type": "GERIATRIC OUTPATIENT CLINICS",
+        "service": "Geriatric Clinic",
+        "UUID": "1d15d0d1-9c5e-4f52-b704-fbb8a8accb11",
+        "contact": [
+          "T: 416-469-6031",
+          "F: 416-469-6458"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "OTHER OUTPATIENT SERVICES",
+        "service": "Psychogeriatric Services",
+        "UUID": "7350eeb4-5919-4863-b11e-33f3e44b3fb1",
+        "contact": [
+          "T: 416-469-6580 Ext. 6319",
+          "F: 416-469-6805"
+        ],
+        "waittime": ""
+      }
+    ]
+  },
+  {
+    "hospital": "North York General Hospital",
+    "UUID": "cf0e5d65-2cb3-40d6-a619-c17705870c21",
+    "address": "2 Buchan Court, Toronto, ON M2J 5A3",
+    "website": "http://www.nygh.on.ca/",
+    "services": [
+      {
+        "type": "GERIATRIC OUTREACH SERVICES",
+        "service": "Geriatric Medicine & Geriatric Psychiatry",
+        "UUID": "943f94f3-b7df-47c7-964c-090374aca8f5",
+        "contact": [
+          "T: 416-756-6050 Ext. 8060",
+          "F: 416-756-3144"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "GERIATRIC DAY HOSPITALS",
+        "service": "",
+        "UUID": "2e68ccb8-0ed7-4bb8-9504-7ddd75057082",
+        "contact": [
+          "T: 416 756-6050 Ext 8060",
+          "F: 416 756-3144"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "GERIATRIC OUTPATIENT CLINICS",
+        "service": "Geriatric Memory Clinics",
+        "UUID": "7854e2d3-155a-402a-ad15-ab8aebefb59e",
+        "contact": [
+          "T: 416 756-6050 Ext. 8060",
+          "F: 416 756-3144"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "OTHER OUTPATIENT SERVICES",
+        "service": "Parkinson Clinic/Parkinson Education Program & Osteoporosis Program",
+        "UUID": "69054c92-9ba6-4118-ba6f-63722e837be1",
+        "contact": [
+          "T: 416-756-6050 Ext 8060",
+          "F: 416-756-3144"
+        ],
+        "waittime": ""
+      }
+    ]
+  },
+  {
+    "hospital": "Ontario Shores Centre for Mental Health Sciences",
+    "UUID": "43133a55-a130-41f2-98fe-89264fc097c9",
+    "address": "700 Gordon St, Whitby, ON L1N 5S9",
+    "website": "https://www.ontarioshores.ca/",
+    "services": [
+      {
+        "type": "GERIATRIC OUTREACH SERVICES",
+        "service": "",
+        "UUID": "de2a9729-2e23-4efd-a2f5-be3f7814df8f",
+        "contact": [
+          "",
+          "F: 905-430-4000"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "GERIATRIC OUTPATIENT CLINICS",
+        "service": "Geriatric Memory Clinic",
+        "UUID": "58fcc42c-899d-4aaf-b348-d0c38ffb7cdd",
+        "contact": [
+          "T: 905-668-2975 Ext. 226",
+          ""
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "GERIATRIC OUTPATIENT CLINICS",
+        "service": "Geriatric Mood Clinic",
+        "UUID": "eda7b2eb-f2fb-48e4-9618-68201269c6d3",
+        "contact": [
+          "",
+          "F: 905-430-4000"
+        ],
+        "waittime": ""
+      }
+    ]
+  },
+  {
+    "hospital": "Orillia Soldiers Memorial Hospital",
+    "UUID": "10da3b88-ed72-448b-a61b-6a029b4bd872",
+    "address": "170 Colborne St W, Orillia, ON L3V 2Z3",
+    "website": "http://www.osmh.on.ca/",
+    "services": [
+      {
+        "type": "GERIATRIC DAY HOSPITALS",
+        "service": "",
+        "UUID": "55da3285-f7a0-4de7-a81c-9fffa003fec0",
+        "contact": [
+          "T: 705-325-2201 Ext. 3850",
+          "F: 705-330-3211"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "OTHER OUTPATIENT SERVICES",
+        "service": "Geriatrician & Geriatric Psychiatry consultation via Telehealth",
+        "UUID": "413e6727-e8c1-4b2c-a96b-ffb4c6af6d7e",
+        "contact": [
+          "T: 705-325-2201 Ext. 3850",
+          "F: 705-330-3211"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "OTHER OUTPATIENT SERVICES",
+        "service": "Integrated Regional Falls Program",
+        "UUID": "583ae27e-40e3-448a-affa-54d56242f54b",
+        "contact": [
+          "T: 705-325-2201 Ext. 3851",
+          " F: 705-330-3205"
+        ],
+        "waittime": ""
+      }
+    ]
+  },
+  {
+    "hospital": "Providence Healthcare",
+    "UUID": "4e7bc6be-00ea-4842-8f09-e83997c78622",
+    "address": "3276 St. Clair Ave. E., Scarborough, ON M1L 1W1",
+    "website": "http://www.providence.on.ca/",
+    "services": [
+      {
+        "type": "GERIATRIC OUTREACH SERVICES",
+        "service": "Community Outreach Medication Management Service",
+        "UUID": "051d5a83-205e-43be-8c34-5286c5a95db9",
+        "contact": [
+          "T: 416-285-3665",
+          "F: 416-285-3663"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "GERIATRIC OUTPATIENT CLINICS",
+        "service": "Geriatric Medicine Clinic / Geriatric Psychiatry Clinic",
+        "UUID": "17404327-6613-497d-9ab1-34d02fd7f3fa",
+        "contact": [
+          "T: 416-285-3665",
+          "F: 416-285-3663"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "OTHER OUTPATIENT SERVICES",
+        "service": "Frailty Intervention Team (FIT)",
+        "UUID": "8c76a8de-d158-4465-9a5c-d7d7025d75f2",
+        "contact": [
+          "T: 416-285-3665",
+          "F: 416-285-3663"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "OTHER OUTPATIENT SERVICES",
+        "service": "Falls Prevention Clinic (Use GTA Rehab Network Outpatient/Ambulatory Rehab Referral Form) ",
+        "UUID": "bb3906d7-db3c-402e-8592-8b2e8445aa67",
+        "contact": [
+          "T: 416-285-3744",
+          "F: 416-285-3759"
+        ],
+        "waittime": ""
+      }
+    ]
+  },
+  {
+    "hospital": "Rouge Valley Health System Centenary Site",
+    "UUID": "ff89de68-ee5f-477c-92c6-5b04899960eb",
+    "address": "2867 Ellesmere Rd, Scarborough, ON M1E 4B9",
+    "website": "http://www.rougevalley.ca/srh",
+    "services": [
+      {
+        "type": "GERIATRIC OUTPATIENT CLINICS",
+        "service": "GAIN Clinic",
+        "UUID": "426ad7bc-ddbc-43c4-9f1f-c500484a16cf",
+        "contact": [
+          "T: 416-281-7446",
+          "F: 416-281-7082"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "OTHER OUTPATIENT SERVICES",
+        "service": "Care After the Care in Hospital (CATCH) - Centenary Site",
+        "UUID": "b8d46775-3131-4b2d-a590-0398cd4daa85",
+        "contact": [
+          "T: 416-284-8131 Ext. 2120",
+          "F: 416-281-7224"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "OTHER OUTPATIENT SERVICES",
+        "service": "Care After the Care in Hospital (CATCH) - Ajax/Pickering Site",
+        "UUID": "afb6977c-8a88-499d-bdb3-458374126f76",
+        "contact": [
+          "T: 905-683-2320 Ext. 5123",
+          "F: 905-428-5204"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "OTHER OUTPATIENT SERVICES",
+        "service": "Psychogeriatric Outreach",
+        "UUID": "8bc42adb-f0b4-48a8-8e1c-d0e0918822f3",
+        "contact": [
+          "T: 416-284-8131 Ext. 5241",
+          "F: 416-281-7320"
+        ],
+        "waittime": ""
+      }
+    ]
+  },
+  {
+    "hospital": "Royal Victoria Regional Health Centre",
+    "UUID": "b55e4eff-c54f-44ca-a184-0f79421fdbee",
+    "address": "201 Georgian Dr, Barrie, ON L4M 6M2",
+    "website": "https://www.rvh.on.ca/",
+    "services": [
+      {
+        "type": "GERIATRIC OUTPATIENT CLINICS",
+        "service": "Urgent Geriatric Clinic",
+        "UUID": "aeb49de1-801f-4242-ab2d-2861581532fb",
+        "contact": [
+          "T: 705-728-9090 Ext. 47378",
+          ""
+        ],
+        "waittime": ""
+      }
+    ]
+  },
+  {
+    "hospital": "Sinai Health System",
+    "UUID": "915aaecc-9495-4f19-990c-5469714d6d34",
+    "address": "600 University Ave, Toronto, ON M5G 1X5",
+    "website": "http://www.sinaihealthsystem.ca/",
+    "services": [
+      {
+        "type": "GERIATRIC OUTPATIENT CLINICS",
+        "service": "Geriatric Medicine Clinic",
+        "UUID": "e6ff34fc-140a-438e-9deb-12897ef3c0a9",
+        "contact": [
+          "T: 416-586-4800 Ext. 8563",
+          "F: 416-586-3168"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "GERIATRIC OUTPATIENT CLINICS",
+        "service": "Geriatric Psychiatry Outpatient Assessment Clinic",
+        "UUID": "5e7718b2-f2cc-4f36-a68b-3151446b4c2d",
+        "contact": [
+          "T: 416-586-4800 Ext. 5192",
+          "F: 416-586-3231"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "OTHER OUTPATIENT SERVICES",
+        "service": "Wellness Centre – Community Mental Health Program for Seniors & Caregivers",
+        "UUID": "43bc221e-1d9b-409b-a271-6312c55e1a02",
+        "contact": [
+          "T: 416-291-3883",
+          ""
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "OTHER OUTPATIENT SERVICES",
+        "service": "Reitman Centre CARERS Program",
+        "UUID": "1be5582b-f643-4190-be70-260f69a2883c",
+        "contact": [
+          "T: 416-586-4800 Ext. 5882",
+          ""
+        ],
+        "waittime": ""
+      }
+    ]
+  },
+  {
+    "hospital": "Southeast / Unionville Home",
+    "UUID": "d3d10618-a12e-4b84-a715-199dc1eedd9a",
+    "address": "4300 Hwy 7, Markham, ON L3R 1L8, Canada",
+    "website": "http://www.uhs.on.ca/",
+    "services": [
+      {
+        "type": "GERIATRIC OUTREACH SERVICES",
+        "service": "",
+        "UUID": "a60c477c-1db5-4238-b4c9-c76e9799e617",
+        "contact": [
+          "T: 905-201-3389",
+          "F: 905-201-5580"
+        ],
+        "waittime": ""
+      }
+    ]
+  },
+  {
+    "hospital": "Southlake Regional Health Centre",
+    "UUID": "055bd7c2-601a-4979-9cee-7ca93f002958",
+    "address": "596 Davis Dr, Newmarket, ON L3Y 2P9",
+    "website": "http://www.southlakeregional.org/",
+    "services": [
+      {
+        "type": "GERIATRIC OUTREACH SERVICES",
+        "service": "",
+        "UUID": "fb58b6df-e088-4e19-80f6-14f510c85d0b",
+        "contact": [
+          "T: 905-895-4521 Ext. 6317",
+          "F: 905-853-2222"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "GERIATRIC OUTPATIENT CLINICS",
+        "service": "",
+        "UUID": "93ddb770-802c-4f05-831f-ebbdde004db9",
+        "contact": [
+          "T: 905-895-4521 Ext. 6317",
+          "F: 905-853-2222"
+        ],
+        "waittime": ""
+      }
+    ]
+  },
+  {
+    "hospital": "St. Joseph's Health Centre",
+    "UUID": "1edae08b-0118-4784-beb4-6d39d129a264",
+    "address": "30 The Queensway, Toronto, ON M6R 1B5",
+    "website": "https://stjoestoronto.ca/",
+    "services": [
+      {
+        "type": "GERIATRIC OUTPATIENT CLINICS",
+        "service": "Elderly Community Health Centre Geriatric Clinic",
+        "UUID": "f9501c3f-e65f-4171-8f07-92082ba5a46e",
+        "contact": [
+          "T: 416-530-6043",
+          ""
+        ],
+        "waittime": ""
+      }
+    ]
+  },
+  {
+    "hospital": "St. Michael's Hospital",
+    "UUID": "f0677833-013d-4b61-91c1-c62b17747f8f",
+    "address": "30 Bond St, Toronto, ON M5B 1W8",
+    "website": "http://www.stmichaelshospital.com/",
+    "services": [
+      {
+        "type": "GERIATRIC OUTPATIENT CLINICS",
+        "service": "Geriatric Assessment Clinic",
+        "UUID": "51a8fa0c-8488-4e46-88c9-eb3a4b1e2e1b",
+        "contact": [
+          "T: 416-864-5015",
+          "F: 416-864-5735"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "OTHER OUTPATIENT SERVICES",
+        "service": "Memory Disorders Clinic",
+        "UUID": "1d696a36-65e5-41ef-947d-cfb2f90c2526",
+        "contact": [
+          "T: 416-864-5015",
+          ""
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "OTHER OUTPATIENT SERVICES",
+        "service": "Psychogeriatric Clinic",
+        "UUID": "eb7412e2-66ba-4dfa-836c-d97740627347",
+        "contact": [
+          "T: 416-864-5320",
+          "F: 416-864-5480"
+        ],
+        "waittime": ""
+      }
+    ]
+  },
+  {
+    "hospital": "Sunnybrook Health Sciences Centre",
+    "UUID": "0f3f1e6b-690c-487f-8bcc-8214e4da7b2a",
+    "address": "2075 Bayview Ave, Toronto, ON M4N 3M5",
+    "website": "https://sunnybrook.ca/",
+    "services": [
+      {
+        "type": "GERIATRIC OUTREACH SERVICES",
+        "service": "",
+        "UUID": "72ca9d68-1d4f-49fa-b468-83ea79ba1748",
+        "contact": [
+          "T: 416-480-6888",
+          "F: 416-480-4778"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "GERIATRIC DAY HOSPITAL",
+        "service": "",
+        "UUID": "3c331e42-8458-434c-b77c-5dbe8b43b87c",
+        "contact": [
+          "T: 416-480-6888",
+          "F: 416-480-4778"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "GERIATRIC OUTPATIENT CLINICS",
+        "service": "Geriatric Assessment Clinic",
+        "UUID": "848434db-14cf-4b44-b465-4e79105c7556",
+        "contact": [
+          "T: 416-480-6888",
+          "F: 416-480-4778"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "OTHER OUTPATIENT SERVICES",
+        "service": "Falls Prevention Program",
+        "UUID": "47a3a0df-247d-4a07-96e1-cadb8908ec13",
+        "contact": [
+          "T: 416-480-6888",
+          "F: 416-480-4778"
+        ],
+        "waittime": ""
+      }
+    ]
+  },
+  {
+    "hospital": "The Scarborough Hospital",
+    "UUID": "4ae044b3-f366-4c43-a0fe-17c845c1d41d",
+    "address": "",
+    "website": "https://www.tsh.to/",
+    "services": [
+      {
+        "type": "GERIATRIC OUTREACH SERVICES",
+        "service": "GAIN Outreach",
+        "UUID": "500c92b4-7f64-4ef2-b5fd-fbc38e91355c",
+        "contact": [
+          "T: 416-847-8941",
+          "F: 416-847-8942"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "GERIATRIC OUTREACH SERVICES",
+        "service": "GAIN Outreach",
+        "UUID": "90f022d5-6863-43ac-b089-475a8f65a0e8",
+        "contact": [
+          "T: 416-493-3333 Ext. 311",
+          "F: 416-352-5086"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "GERIATRIC OUTPATIENT CLINICS",
+        "service": "GAIN Clinic (General Site)",
+        "UUID": "14111b12-fd56-4e9d-bef3-644e4f087492",
+        "contact": [
+          "T: 416-431-8200 Ext. 6355",
+          "F: 416-289-2961"
+        ],
+        "waittime": ""
+      }
+    ]
+  },
+  {
+    "hospital": "Trillium Health Partners",
+    "UUID": "e88897de-a4d2-4f29-9703-d5794abfa974",
+    "address": "2200 Eglinton Ave W, Mississauga, ON L5M 2N1",
+    "website": "https://trilliumhealthpartners.ca/",
+    "services": [
+      {
+        "type": "GERIATRIC OUTREACH SERVICES",
+        "service": "",
+        "UUID": "09c715ca-bb2a-4a81-ace8-6a95c5e4ac9d",
+        "contact": [
+          "T: 416-521-4090 or 1-888-271-2742",
+          "F: 416-521-4116"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "GERIATRIC OUTPATIENT CLINICS",
+        "service": "Seniors' Health Clinic",
+        "UUID": "8bf1332c-27c3-4586-aca9-2630f4e34037",
+        "contact": [
+          "T: 416-521-4090 or 1-888-271-2742",
+          "F: 416-521-4116"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "OTHER OUTPATIENT SERVICES",
+        "service": "Seniors' Mental Health Services",
+        "UUID": "79105474-a952-41be-b771-007f36f8c22f",
+        "contact": [
+          "T: 416-521-4006",
+          "F: 416-521-4020"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "OTHER OUTPATIENT SERVICES",
+        "service": "Falls",
+        "UUID": "a3d8b02f-9029-4a7f-8162-22940efb375f",
+        "contact": [
+          "T: 416-521-4090 or 1-888-271-2742",
+          "F: 416-521-4116"
+        ],
+        "waittime": ""
+      }
+    ]
+  },
+  {
+    "hospital": "University Health Network - Toronto General Hospital",
+    "UUID": "23d5d269-27ba-4e3a-bac5-bd2ad202b8c7",
+    "address": "200 Elizabeth St, Toronto, ON M5G 2C4",
+    "website": "http://www.uhn.ca/corporate/AboutUHN/OurHospitals/TGH",
+    "services": [
+      {
+        "type": "OTHER OUTPATIENT SERVICES",
+        "service": "Late Life Affective Disorders Clinic (Toronto General Site)",
+        "UUID": "e6658e50-1098-4987-a92a-25e09982e808",
+        "contact": [
+          "T: 416-603-5800 Ext. 6508",
+          "F: 416-603-5368"
+        ],
+        "waittime": ""
+      }
+    ]
+  },
+  {
+    "hospital": "University Health Network - Toronto Western Hospital",
+    "UUID": "4f420f99-d57e-45e7-87ba-cd91e181face",
+    "address": "399 Bathurst St, Toronto, ON M5T 2S8",
+    "website": "http://www.uhn.ca/corporate/AboutUHN/OurHospitals/TWH",
+    "services": [
+      {
+        "type": "OTHER OUTPATIENT SERVICES",
+        "service": "Memory Clinic (Toronto Western Site)",
+        "UUID": "f3f79e18-8127-4b19-9068-99b642a28fea",
+        "contact": [
+          "T: 416-603-5232 ",
+          "F: 416-603-6402"
+        ],
+        "waittime": ""
+      }
+    ]
+  },
+  {
+    "hospital": "University Health Network - Toronto Rehabilitation Institute",
+    "UUID": "2ce26643-911c-487e-85da-32b8351e2df8",
+    "address": "550 University Avenue, Toronto, ON M5G 2A2",
+    "website": "http://www.uhn.ca/TorontoRehab",
+    "services": [
+      {
+        "type": "GERIATRIC OUTREACH SERVICES",
+        "service": "",
+        "UUID": "8f88a2fc-93bc-4d7d-9afb-a97e5f4de6c6",
+        "contact": [
+          "T: 416-597-3422 Ext. 3830",
+          "F: 416-597-7066"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "GERIATRIC DAY HOSPITAL",
+        "service": "",
+        "UUID": "6dc49ed2-ec97-4587-8bf4-10f4dcd2a880",
+        "contact": [
+          "T: 416-597-3422 Ext. 3065",
+          "F: 416-597-7066"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "GERIATRIC OUTPATIENT CLINICS",
+        "service": "Geriatric Assessment Clinic",
+        "UUID": "63440f79-98be-443e-bbb4-c990a697c7d1",
+        "contact": [
+          "T: 416-597-3422 Ext. 3065",
+          "F: 416-597-7066"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "OTHER OUTPATIENT SERVICES",
+        "service": "Falls Clinic",
+        "UUID": "93aac82e-169d-4c5a-94b5-ce3b701496f0",
+        "contact": [
+          "T: 416-597-3422 Ext. 3065",
+          "F: 416-597-7066"
+        ],
+        "waittime": ""
+      }
+    ]
+  },
+  {
+    "hospital": "West Park Healthcare Centre",
+    "UUID": "a91bff82-44f1-40a4-83a0-ed60c982918b",
+    "address": "82 Buttonwood Avenue, Toronto, ON M6M 2J5",
+    "website": "https://www.westpark.org/",
+    "services": [
+      {
+        "type": "GERIATRIC OUTREACH SERVICES",
+        "service": "Geriatric Assess and Restore",
+        "UUID": "6bb7f87b-f828-4362-8c72-c8ed6cf18472",
+        "contact": [
+          "T: 416-243-3600 Ext. 2281",
+          "F: 416-243-3907"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "GERIATRIC OUTPATIENT CLINICS",
+        "service": "Geriatric Assess and Restore",
+        "UUID": "539ff315-c1e5-43e1-9744-25329fa51716",
+        "contact": [
+          "T: 416-243-3600 Ext. 2281",
+          "F: 416-243-3907"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "OTHER OUTPATIENT SERVICES",
+        "service": "Seniors Mental Health Services",
+        "UUID": "51f53b2a-08be-415c-914a-1fa759080faa",
+        "contact": [
+          "T: 416-243-3732",
+          "F: 416-243-3735"
+        ],
+        "waittime": ""
+      }
+    ]
+  },
+  {
+    "hospital": "William Osler Health System",
+    "UUID": "aa78a8e8-5b10-4b38-9478-1690cc7e1f2e",
+    "address": "2100 Bovaird Dr E, Brampton, ON L6R 3J7",
+    "website": "http://www.williamoslerhs.ca/",
+    "services": [
+      {
+        "type": "GERIATRIC OUTREACH SERVICES",
+        "service": "",
+        "UUID": "fbab473e-9731-4954-a84a-83e195e3d9e3",
+        "contact": [
+          "T: 905-863-2573",
+          "F: 905-863-2545"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "GERIATRIC OUTPATIENT CLINICS",
+        "service": "Seniors' Wellness Clinics",
+        "UUID": "c4de0b9a-e921-4a06-810e-9842ad3b117c",
+        "contact": [
+          "T: 905-863-2551",
+          "F: 905-863-2474"
+        ],
+        "waittime": ""
+      },
+      {
+        "type": "OTHER OUTPATIENT SERVICES",
+        "service": "Geriatric Mental Health Outpatient Clinic",
+        "UUID": "038969ef-98a5-455f-a13f-06d4dbf1403f",
+        "contact": [
+          "T: 905-494-2120 Ext. 29242",
+          "F 905-863-2472"
+        ],
+        "waittime": ""
+      }
+    ]
+  },
+  {
+    "hospital": "Women's College Hospital",
+    "UUID": "c04a3d7f-d640-4916-9deb-6325cdc613ef",
+    "address": "76 Grenville St, Toronto, ON M5S 1B2, Canada",
+    "website": "",
+    "services": [
+      {
+        "type": "GERIATRIC OUTPATIENT CLINICS",
+        "service": "Wellness for Independent Seniors (WISE) Outpatient Clinic",
+        "UUID": "1cce14c3-b649-45f8-845f-59d72d96675f",
+        "contact": [
+          "T: 416-323-6400 Ext. 8092",
+          "F: 416-323-7324"
+        ],
+        "waittime": ""
+      }
+    ]
+  }
+]
